@@ -1,0 +1,4915 @@
+{
+  "palette": {
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.87)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.87)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.87)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.87)"
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.60)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.60)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.60)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.60)"
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.38)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.38)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.38)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.38)"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.04)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.04)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.04)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.08)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.08)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.08)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.08)"
+        }
+      },
+      "focus": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.12)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.12)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.30)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.30)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.30)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.30)"
+        }
+      }
+    },
+    "primary": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.50}",
+          "Cosmos Dark": "{primary.600}",
+          "Cosmos Test": "{test COSMOS.50}",
+          "Cosmos Alternativo": "#f4f6fc"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.100}",
+          "Cosmos Dark": "{primary.50}",
+          "Cosmos Test": "{test COSMOS.100}",
+          "Cosmos Alternativo": "#e7ecf7"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.200}",
+          "Cosmos Dark": "{primary.100}",
+          "Cosmos Test": "{test COSMOS.200}",
+          "Cosmos Alternativo": "#cad6ed"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.300}",
+          "Cosmos Dark": "{primary.200}",
+          "Cosmos Test": "{test COSMOS.300}",
+          "Cosmos Alternativo": "#9db4dd"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.500}",
+          "Cosmos Dark": "{primary.500}",
+          "Cosmos Test": "{test COSMOS.600}",
+          "Cosmos Alternativo": "#33579a"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.600}",
+          "Cosmos Dark": "{primary.dark}",
+          "Cosmos Test": "{test COSMOS.700}",
+          "Cosmos Alternativo": "#2a457a"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.800}",
+          "Cosmos Dark": "{primary.800}",
+          "Cosmos Test": "{test COSMOS.800}",
+          "Cosmos Alternativo": "#263c66"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.main}",
+          "Cosmos Dark": "{primary.light}",
+          "Cosmos Test": "{test COSMOS.main}",
+          "Cosmos Alternativo": "#436eb4"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.dark}",
+          "Cosmos Dark": "{primary.main}",
+          "Cosmos Test": "{test COSMOS.dark}",
+          "Cosmos Alternativo": "#233455"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{primary.light}",
+          "Cosmos Dark": "{primary.300}",
+          "Cosmos Test": "{test COSMOS.light}",
+          "Cosmos Alternativo": "#678dc9"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(115, 88, 250, 0.04)",
+          "Cosmos Dark": "rgba(115, 88, 250, 0.04)",
+          "Cosmos Test": "rgba(13, 132, 145, 0.04)",
+          "Cosmos Alternativo": "rgba(67, 110, 180, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(115, 88, 250, 0.08)",
+          "Cosmos Dark": "rgba(115, 88, 250, 0.08)",
+          "Cosmos Test": "rgba(13, 132, 145, 0.08)",
+          "Cosmos Alternativo": "rgba(67, 110, 180, 0.08)"
+        }
+      },
+      "focus": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(115, 88, 250, 0.12)",
+          "Cosmos Dark": "rgba(115, 88, 250, 0.12)",
+          "Cosmos Test": "rgba(13, 132, 145, 0.12)",
+          "Cosmos Alternativo": "rgba(67, 110, 180, 0.12)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(115, 88, 250, 0.30)",
+          "Cosmos Dark": "rgba(115, 88, 250, 0.30)",
+          "Cosmos Test": "rgba(13, 132, 145, 0.30)",
+          "Cosmos Alternativo": "rgba(67, 110, 180, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(115, 88, 250, 0.50)",
+          "Cosmos Dark": "rgba(115, 88, 250, 0.50)",
+          "Cosmos Test": "rgba(13, 132, 145, 0.50)",
+          "Cosmos Alternativo": "rgba(67, 110, 180, 0.50)"
+        }
+      }
+    },
+    "secondary": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.50}",
+          "Cosmos Dark": "{secondary.50}",
+          "Cosmos Test": "{secondary.50}",
+          "Cosmos Alternativo": "#ebffff"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.100}",
+          "Cosmos Dark": "{secondary.100}",
+          "Cosmos Test": "{secondary.100}",
+          "Cosmos Alternativo": "#cdfdff"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.200}",
+          "Cosmos Dark": "{secondary.200}",
+          "Cosmos Test": "{secondary.200}",
+          "Cosmos Alternativo": "#a1f8ff"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.300}",
+          "Cosmos Dark": "{secondary.300}",
+          "Cosmos Test": "{secondary.300}",
+          "Cosmos Alternativo": "#63f0fd"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.600}",
+          "Cosmos Dark": "{secondary.600}",
+          "Cosmos Test": "{secondary.600}",
+          "Cosmos Alternativo": "#019ab7"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.700}",
+          "Cosmos Dark": "{secondary.700}",
+          "Cosmos Test": "{secondary.700}",
+          "Cosmos Alternativo": "#0a7a94"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.800}",
+          "Cosmos Dark": "{secondary.800}",
+          "Cosmos Test": "{secondary.800}",
+          "Cosmos Alternativo": "#106378"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.main}",
+          "Cosmos Dark": "{secondary.light}",
+          "Cosmos Test": "{secondary.main}",
+          "Cosmos Alternativo": "#00bcd4"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.dark}",
+          "Cosmos Dark": "{secondary.main}",
+          "Cosmos Test": "{secondary.dark}",
+          "Cosmos Alternativo": "#155265"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{secondary.light}",
+          "Cosmos Dark": "{secondary.200}",
+          "Cosmos Test": "{secondary.light}",
+          "Cosmos Alternativo": "#1adef4"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(0, 188, 212, 0.04)",
+          "Cosmos Dark": "rgba(0, 188, 212, 0.04)",
+          "Cosmos Test": "rgba(0, 188, 212, 0.04)",
+          "Cosmos Alternativo": "rgba(0, 188, 212, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(0, 188, 212, 0.08)",
+          "Cosmos Dark": "rgba(0, 188, 212, 0.08)",
+          "Cosmos Test": "rgba(0, 188, 212, 0.08)",
+          "Cosmos Alternativo": "rgba(0, 188, 212, 0.08)"
+        }
+      },
+      "focus": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(0, 188, 212, 0.12)",
+          "Cosmos Dark": "rgba(0, 188, 212, 0.12)",
+          "Cosmos Test": "rgba(0, 188, 212, 0.12)",
+          "Cosmos Alternativo": "rgba(0, 188, 212, 0.12)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(0, 188, 212, 0.30)",
+          "Cosmos Dark": "rgba(0, 188, 212, 0.30)",
+          "Cosmos Test": "rgba(0, 188, 212, 0.30)",
+          "Cosmos Alternativo": "rgba(0, 188, 212, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(0, 188, 212, 0.50)",
+          "Cosmos Dark": "rgba(0, 188, 212, 0.50)",
+          "Cosmos Test": "rgba(0, 188, 212, 0.50)",
+          "Cosmos Alternativo": "rgba(0, 188, 212, 0.50)"
+        }
+      }
+    },
+    "action": {
+      "active": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.54)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.54)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.54)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.54)"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.04)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.04)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.04)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.08)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.08)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.08)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.08)"
+        }
+      },
+      "disabledBackground": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.12)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.12)"
+        }
+      },
+      "focus": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.12)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.12)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.12)"
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(16, 24, 64, 0.26)",
+          "Cosmos Dark": "rgba(255, 255, 255, 0.26)",
+          "Cosmos Test": "rgba(16, 24, 64, 0.26)",
+          "Cosmos Alternativo": "rgba(16, 24, 64, 0.26)"
+        }
+      }
+    },
+    "error": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.50}",
+          "Cosmos Dark": "{error.50}",
+          "Cosmos Test": "{error.50}",
+          "Cosmos Alternativo": "{error.50}"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.100}",
+          "Cosmos Dark": "{error.100}",
+          "Cosmos Test": "{error.100}",
+          "Cosmos Alternativo": "{error.100}"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.200}",
+          "Cosmos Dark": "{error.200}",
+          "Cosmos Test": "{error.200}",
+          "Cosmos Alternativo": "{error.200}"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.300}",
+          "Cosmos Dark": "{error.300}",
+          "Cosmos Test": "{error.300}",
+          "Cosmos Alternativo": "{error.300}"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.600}",
+          "Cosmos Dark": "{error.600}",
+          "Cosmos Test": "{error.600}",
+          "Cosmos Alternativo": "{error.600}"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.700}",
+          "Cosmos Dark": "{error.700}",
+          "Cosmos Test": "{error.700}",
+          "Cosmos Alternativo": "{error.700}"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.800}",
+          "Cosmos Dark": "{error.800}",
+          "Cosmos Test": "{error.800}",
+          "Cosmos Alternativo": "{error.800}"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.main}",
+          "Cosmos Dark": "{error.200}",
+          "Cosmos Test": "{error.main}",
+          "Cosmos Alternativo": "{error.main}"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.dark}",
+          "Cosmos Dark": "{error.600}",
+          "Cosmos Test": "{error.dark}",
+          "Cosmos Alternativo": "{error.dark}"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{error.light}",
+          "Cosmos Dark": "{error.50}",
+          "Cosmos Test": "{error.light}",
+          "Cosmos Alternativo": "{error.light}"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(209, 67, 67, 0.04)",
+          "Cosmos Dark": "rgba(209, 67, 67, 0.04)",
+          "Cosmos Test": "rgba(209, 67, 67, 0.04)",
+          "Cosmos Alternativo": "rgba(209, 67, 67, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(209, 67, 67, 0.08)",
+          "Cosmos Dark": "rgba(209, 67, 67, 0.08)",
+          "Cosmos Test": "rgba(209, 67, 67, 0.08)",
+          "Cosmos Alternativo": "rgba(209, 67, 67, 0.08)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(209, 67, 67, 0.30)",
+          "Cosmos Dark": "rgba(209, 67, 67, 0.30)",
+          "Cosmos Test": "rgba(209, 67, 67, 0.30)",
+          "Cosmos Alternativo": "rgba(209, 67, 67, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(209, 67, 67, 0.50)",
+          "Cosmos Dark": "rgba(209, 67, 67, 0.50)",
+          "Cosmos Test": "rgba(209, 67, 67, 0.50)",
+          "Cosmos Alternativo": "rgba(209, 67, 67, 0.50)"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      }
+    },
+    "warning": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.50}",
+          "Cosmos Dark": "{warning.50}",
+          "Cosmos Test": "{warning.50}",
+          "Cosmos Alternativo": "{warning.50}"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.100}",
+          "Cosmos Dark": "{warning.100}",
+          "Cosmos Test": "{warning.100}",
+          "Cosmos Alternativo": "{warning.100}"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.200}",
+          "Cosmos Dark": "{warning.200}",
+          "Cosmos Test": "{warning.200}",
+          "Cosmos Alternativo": "{warning.200}"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.300}",
+          "Cosmos Dark": "{warning.300}",
+          "Cosmos Test": "{warning.300}",
+          "Cosmos Alternativo": "{warning.300}"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.600}",
+          "Cosmos Dark": "{warning.600}",
+          "Cosmos Test": "{warning.600}",
+          "Cosmos Alternativo": "{warning.600}"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.700}",
+          "Cosmos Dark": "{warning.700}",
+          "Cosmos Test": "{warning.700}",
+          "Cosmos Alternativo": "{warning.700}"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.800}",
+          "Cosmos Dark": "{warning.800}",
+          "Cosmos Test": "{warning.800}",
+          "Cosmos Alternativo": "{warning.800}"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.main}",
+          "Cosmos Dark": "{warning.200}",
+          "Cosmos Test": "{warning.main}",
+          "Cosmos Alternativo": "{warning.main}"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.dark}",
+          "Cosmos Dark": "{warning.600}",
+          "Cosmos Test": "{warning.dark}",
+          "Cosmos Alternativo": "{warning.dark}"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{warning.light}",
+          "Cosmos Dark": "{warning.50}",
+          "Cosmos Test": "{warning.light}",
+          "Cosmos Alternativo": "{warning.light}"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(251, 133, 0, 0.04)",
+          "Cosmos Dark": "rgba(251, 133, 0, 0.04)",
+          "Cosmos Test": "rgba(251, 133, 0, 0.04)",
+          "Cosmos Alternativo": "rgba(251, 133, 0, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(251, 133, 0, 0.08)",
+          "Cosmos Dark": "rgba(251, 133, 0, 0.08)",
+          "Cosmos Test": "rgba(251, 133, 0, 0.08)",
+          "Cosmos Alternativo": "rgba(251, 133, 0, 0.08)"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(251, 133, 0, 0.30)",
+          "Cosmos Dark": "rgba(251, 133, 0, 0.30)",
+          "Cosmos Test": "rgba(251, 133, 0, 0.30)",
+          "Cosmos Alternativo": "rgba(251, 133, 0, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(251, 133, 0, 0.50)",
+          "Cosmos Dark": "rgba(251, 133, 0, 0.50)",
+          "Cosmos Test": "rgba(251, 133, 0, 0.50)",
+          "Cosmos Alternativo": "rgba(251, 133, 0, 0.50)"
+        }
+      }
+    },
+    "info": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.50}",
+          "Cosmos Dark": "{info.50}",
+          "Cosmos Test": "{info.50}",
+          "Cosmos Alternativo": "{info.50}"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.100}",
+          "Cosmos Dark": "{info.100}",
+          "Cosmos Test": "{info.100}",
+          "Cosmos Alternativo": "{info.100}"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.200}",
+          "Cosmos Dark": "{info.200}",
+          "Cosmos Test": "{info.200}",
+          "Cosmos Alternativo": "{info.200}"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.300}",
+          "Cosmos Dark": "{info.300}",
+          "Cosmos Test": "{info.300}",
+          "Cosmos Alternativo": "{info.300}"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.600}",
+          "Cosmos Dark": "{info.600}",
+          "Cosmos Test": "{info.600}",
+          "Cosmos Alternativo": "{info.600}"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.700}",
+          "Cosmos Dark": "{info.700}",
+          "Cosmos Test": "{info.700}",
+          "Cosmos Alternativo": "{info.700}"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.800}",
+          "Cosmos Dark": "{info.800}",
+          "Cosmos Test": "{info.800}",
+          "Cosmos Alternativo": "{info.800}"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.main}",
+          "Cosmos Dark": "{info.200}",
+          "Cosmos Test": "{info.main}",
+          "Cosmos Alternativo": "{info.main}"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.dark}",
+          "Cosmos Dark": "{info.600}",
+          "Cosmos Test": "{info.dark}",
+          "Cosmos Alternativo": "{info.dark}"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{info.light}",
+          "Cosmos Dark": "{info.50}",
+          "Cosmos Test": "{info.light}",
+          "Cosmos Alternativo": "{info.light}"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(45, 159, 197, 0.04)",
+          "Cosmos Dark": "rgba(45, 159, 197, 0.04)",
+          "Cosmos Test": "rgba(45, 159, 197, 0.04)",
+          "Cosmos Alternativo": "rgba(45, 159, 197, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(45, 159, 197, 0.08)",
+          "Cosmos Dark": "rgba(45, 159, 197, 0.08)",
+          "Cosmos Test": "rgba(45, 159, 197, 0.08)",
+          "Cosmos Alternativo": "rgba(45, 159, 197, 0.08)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(45, 159, 197, 0.30)",
+          "Cosmos Dark": "rgba(45, 159, 197, 0.30)",
+          "Cosmos Test": "rgba(45, 159, 197, 0.30)",
+          "Cosmos Alternativo": "rgba(45, 159, 197, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(45, 159, 197, 0.50)",
+          "Cosmos Dark": "rgba(45, 159, 197, 0.50)",
+          "Cosmos Test": "rgba(45, 159, 197, 0.50)",
+          "Cosmos Alternativo": "rgba(45, 159, 197, 0.50)"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      }
+    },
+    "success": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.50}",
+          "Cosmos Dark": "{success.50}",
+          "Cosmos Test": "{success.50}",
+          "Cosmos Alternativo": "{success.50}"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.100}",
+          "Cosmos Dark": "{success.100}",
+          "Cosmos Test": "{success.100}",
+          "Cosmos Alternativo": "{success.100}"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.200}",
+          "Cosmos Dark": "{success.200}",
+          "Cosmos Test": "{success.200}",
+          "Cosmos Alternativo": "{success.200}"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.300}",
+          "Cosmos Dark": "{success.300}",
+          "Cosmos Test": "{success.300}",
+          "Cosmos Alternativo": "{success.300}"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.600}",
+          "Cosmos Dark": "{success.600}",
+          "Cosmos Test": "{success.600}",
+          "Cosmos Alternativo": "{success.600}"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.700}",
+          "Cosmos Dark": "{success.700}",
+          "Cosmos Test": "{success.700}",
+          "Cosmos Alternativo": "{success.700}"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.800}",
+          "Cosmos Dark": "{success.800}",
+          "Cosmos Test": "{success.800}",
+          "Cosmos Alternativo": "{success.800}"
+        }
+      },
+      "main": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.main}",
+          "Cosmos Dark": "{success.200}",
+          "Cosmos Test": "{success.main}",
+          "Cosmos Alternativo": "{success.main}"
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.dark}",
+          "Cosmos Dark": "{success.600}",
+          "Cosmos Test": "{success.dark}",
+          "Cosmos Alternativo": "{success.dark}"
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{success.light}",
+          "Cosmos Dark": "{success.50}",
+          "Cosmos Test": "{success.light}",
+          "Cosmos Alternativo": "{success.light}"
+        }
+      },
+      "contrast": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#ffffff",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(143, 201, 58, 0.04)",
+          "Cosmos Dark": "rgba(143, 201, 58, 0.04)",
+          "Cosmos Test": "rgba(143, 201, 58, 0.04)",
+          "Cosmos Alternativo": "rgba(143, 201, 58, 0.04)"
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(143, 201, 58, 0.08)",
+          "Cosmos Dark": "rgba(143, 201, 58, 0.08)",
+          "Cosmos Test": "rgba(143, 201, 58, 0.08)",
+          "Cosmos Alternativo": "rgba(143, 201, 58, 0.08)"
+        }
+      },
+      "focusVisible": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(143, 201, 58, 0.30)",
+          "Cosmos Dark": "rgba(143, 201, 58, 0.30)",
+          "Cosmos Test": "rgba(143, 201, 58, 0.30)",
+          "Cosmos Alternativo": "rgba(143, 201, 58, 0.30)"
+        }
+      },
+      "outlinedBorder": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "rgba(143, 201, 58, 0.50)",
+          "Cosmos Dark": "rgba(143, 201, 58, 0.50)",
+          "Cosmos Test": "rgba(143, 201, 58, 0.50)",
+          "Cosmos Alternativo": "rgba(143, 201, 58, 0.50)"
+        }
+      }
+    },
+    "common": {
+      "white": {
+        "main": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#ffffff",
+            "Cosmos Dark": "#ffffff",
+            "Cosmos Test": "#ffffff",
+            "Cosmos Alternativo": "#ffffff"
+          }
+        },
+        "hover": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(255, 255, 255, 0.04)",
+            "Cosmos Dark": "rgba(255, 255, 255, 0.04)",
+            "Cosmos Test": "rgba(255, 255, 255, 0.04)",
+            "Cosmos Alternativo": "rgba(255, 255, 255, 0.04)"
+          }
+        },
+        "selected": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(255, 255, 255, 0.08)",
+            "Cosmos Dark": "rgba(255, 255, 255, 0.08)",
+            "Cosmos Test": "rgba(255, 255, 255, 0.08)",
+            "Cosmos Alternativo": "rgba(255, 255, 255, 0.08)"
+          }
+        },
+        "focus": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(255, 255, 255, 0.12)",
+            "Cosmos Dark": "rgba(255, 255, 255, 0.12)",
+            "Cosmos Test": "rgba(255, 255, 255, 0.12)",
+            "Cosmos Alternativo": "rgba(255, 255, 255, 0.12)"
+          }
+        },
+        "focusVisible": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(255, 255, 255, 0.30)",
+            "Cosmos Dark": "rgba(255, 255, 255, 0.30)",
+            "Cosmos Test": "rgba(255, 255, 255, 0.30)",
+            "Cosmos Alternativo": "rgba(255, 255, 255, 0.30)"
+          }
+        },
+        "outlinedBorder": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(255, 255, 255, 0.50)",
+            "Cosmos Dark": "rgba(255, 255, 255, 0.50)",
+            "Cosmos Test": "rgba(255, 255, 255, 0.50)",
+            "Cosmos Alternativo": "rgba(255, 255, 255, 0.50)"
+          }
+        }
+      },
+      "black": {
+        "main": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#000000",
+            "Cosmos Dark": "#000000",
+            "Cosmos Test": "#000000",
+            "Cosmos Alternativo": "#000000"
+          }
+        },
+        "hover": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.04)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.04)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.04)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.04)"
+          }
+        },
+        "selected": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.08)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.08)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.08)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.08)"
+          }
+        },
+        "focus": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.12)"
+          }
+        },
+        "focusVisible": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.30)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.30)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.30)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.30)"
+          }
+        },
+        "outlinedBorder": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.50)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.50)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.50)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.50)"
+          }
+        }
+      }
+    },
+    "background": {
+      "paper-elevation-0": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#1e1e1e",
+          "Cosmos Test": "{test COSMOS.50}",
+          "Cosmos Alternativo": "{primary.50}"
+        }
+      },
+      "paper-elevation-1": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#232323",
+          "Cosmos Test": "{test COSMOS.50}",
+          "Cosmos Alternativo": "{primary.50}"
+        }
+      },
+      "paper-elevation-2": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#252525",
+          "Cosmos Test": "{test COSMOS.50}",
+          "Cosmos Alternativo": "{primary.50}"
+        }
+      },
+      "paper-elevation-3": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#272727",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-4": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#2a2a2a",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-5": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#2c2c2c",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-6": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#2c2c2c",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-7": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#2e2e2e",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-8": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#2e2e2e",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-9": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#313131",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-10": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#313131",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-11": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#333333",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-12": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#333333",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-13": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#333333",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-14": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#333333",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-15": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#333333",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-16": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#363636",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-17": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#363636",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-18": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#363636",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-19": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-20": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-21": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-22": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-23": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "paper-elevation-24": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "#ffffff",
+          "Cosmos Alternativo": "#ffffff"
+        }
+      },
+      "Default": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#f5f5f5",
+          "Cosmos Dark": "#121212",
+          "Cosmos Test": "{test COSMOS.100}",
+          "Cosmos Alternativo": "{primary.200}"
+        }
+      },
+      "Paper": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#ffffff",
+          "Cosmos Dark": "#202020",
+          "Cosmos Test": "{test COSMOS.50}",
+          "Cosmos Alternativo": "{primary.100}"
+        }
+      }
+    },
+    "divider": {
+      "$type": "color",
+      "$value": {
+        "Cosmos": "rgba(0, 0, 0, 0.12)",
+        "Cosmos Dark": "rgba(255, 255, 255, 0.12)",
+        "Cosmos Test": "rgba(0, 0, 0, 0.12)",
+        "Cosmos Alternativo": "rgba(0, 0, 0, 0.12)"
+      }
+    },
+    "components": {
+      "rating": {
+        "enabledBorder": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.23)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.23)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.23)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.23)"
+          }
+        },
+        "activeFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#ffb400",
+            "Cosmos Dark": "#ffb400",
+            "Cosmos Test": "#ffb400",
+            "Cosmos Alternativo": "#ffb400"
+          }
+        }
+      },
+      "avatar": {
+        "fill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.400}",
+            "Cosmos Dark": "{grey.400}",
+            "Cosmos Test": "{grey.400}",
+            "Cosmos Alternativo": "{grey.400}"
+          }
+        }
+      },
+      "input": {
+        "standard": {
+          "enabledBorder": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "rgba(0, 0, 0, 0.42)",
+              "Cosmos Dark": "rgba(0, 0, 0, 0.42)",
+              "Cosmos Test": "rgba(0, 0, 0, 0.42)",
+              "Cosmos Alternativo": "rgba(0, 0, 0, 0.42)"
+            }
+          },
+          "hoverBorder": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#000000",
+              "Cosmos Dark": "#000000",
+              "Cosmos Test": "#000000",
+              "Cosmos Alternativo": "#000000"
+            }
+          }
+        },
+        "filled": {
+          "enabledFill": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "rgba(0, 0, 0, 0.06)",
+              "Cosmos Dark": "rgba(0, 0, 0, 0.06)",
+              "Cosmos Test": "rgba(0, 0, 0, 0.06)",
+              "Cosmos Alternativo": "rgba(0, 0, 0, 0.06)"
+            }
+          },
+          "hoverFill": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "rgba(0, 0, 0, 0.09)",
+              "Cosmos Dark": "rgba(0, 0, 0, 0.09)",
+              "Cosmos Test": "rgba(0, 0, 0, 0.09)",
+              "Cosmos Alternativo": "rgba(0, 0, 0, 0.09)"
+            }
+          }
+        },
+        "outlined": {
+          "enabledBorder": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "rgba(16, 24, 64, 0.23)",
+              "Cosmos Dark": "rgba(16, 24, 64, 0.23)",
+              "Cosmos Test": "rgba(16, 24, 64, 0.23)",
+              "Cosmos Alternativo": "rgba(16, 24, 64, 0.23)"
+            }
+          },
+          "hoverBorder": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#101840",
+              "Cosmos Dark": "#101840",
+              "Cosmos Test": "#101840",
+              "Cosmos Alternativo": "#101840"
+            }
+          }
+        }
+      },
+      "switch": {
+        "knobFillEnabled": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.50}",
+            "Cosmos Dark": "{grey.50}",
+            "Cosmos Test": "{grey.50}",
+            "Cosmos Alternativo": "{grey.50}"
+          }
+        },
+        "slideFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#000000",
+            "Cosmos Dark": "#000000",
+            "Cosmos Test": "#000000",
+            "Cosmos Alternativo": "#000000"
+          }
+        },
+        "knowFillDisabled": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.100}",
+            "Cosmos Dark": "{grey.100}",
+            "Cosmos Test": "{grey.100}",
+            "Cosmos Alternativo": "{grey.100}"
+          }
+        }
+      },
+      "chip": {
+        "defaultCloseFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#000000",
+            "Cosmos Dark": "#000000",
+            "Cosmos Test": "#000000",
+            "Cosmos Alternativo": "#000000"
+          }
+        },
+        "defaultHoverFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.12)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.12)"
+          }
+        },
+        "defaultEnabledBorder": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.400}",
+            "Cosmos Dark": "{grey.400}",
+            "Cosmos Test": "{grey.400}",
+            "Cosmos Alternativo": "{grey.400}"
+          }
+        },
+        "defaultFocusFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(0, 0, 0, 0.20)",
+            "Cosmos Dark": "rgba(0, 0, 0, 0.20)",
+            "Cosmos Test": "rgba(0, 0, 0, 0.20)",
+            "Cosmos Alternativo": "rgba(0, 0, 0, 0.20)"
+          }
+        },
+        "primary": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#c4e1f5",
+              "Cosmos Dark": "#c4e1f5",
+              "Cosmos Test": "#c4e1f5",
+              "Cosmos Alternativo": "#c4e1f5"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#a2cdee",
+              "Cosmos Dark": "#a2cdee",
+              "Cosmos Test": "#a2cdee",
+              "Cosmos Alternativo": "#a2cdee"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#e2f0fa",
+              "Cosmos Dark": "#e2f0fa",
+              "Cosmos Test": "#e2f0fa",
+              "Cosmos Alternativo": "#e2f0fa"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "default": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#e4e5e7",
+              "Cosmos Dark": "#e4e5e7",
+              "Cosmos Test": "#e4e5e7",
+              "Cosmos Alternativo": "#e4e5e7"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#d1d3d7",
+              "Cosmos Dark": "#d1d3d7",
+              "Cosmos Test": "#d1d3d7",
+              "Cosmos Alternativo": "#d1d3d7"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#f2f2f3",
+              "Cosmos Dark": "#f2f2f3",
+              "Cosmos Test": "#f2f2f3",
+              "Cosmos Alternativo": "#f2f2f3"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "secondary": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#c4f6fd",
+              "Cosmos Dark": "#c4f6fd",
+              "Cosmos Test": "#c4f6fd",
+              "Cosmos Alternativo": "#c4f6fd"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#a8f1fb",
+              "Cosmos Dark": "#a8f1fb",
+              "Cosmos Test": "#a8f1fb",
+              "Cosmos Alternativo": "#a8f1fb"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#e0fbfe",
+              "Cosmos Dark": "#e0fbfe",
+              "Cosmos Test": "#e0fbfe",
+              "Cosmos Alternativo": "#e0fbfe"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "error": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#fcd4d4",
+              "Cosmos Dark": "#fcd4d4",
+              "Cosmos Test": "#fcd4d4",
+              "Cosmos Alternativo": "#fcd4d4"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#fab9b9",
+              "Cosmos Dark": "#fab9b9",
+              "Cosmos Test": "#fab9b9",
+              "Cosmos Alternativo": "#fab9b9"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#feeaea",
+              "Cosmos Dark": "#feeaea",
+              "Cosmos Test": "#feeaea",
+              "Cosmos Alternativo": "#feeaea"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "warning": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#fce4c0",
+              "Cosmos Dark": "#fce4c0",
+              "Cosmos Test": "#fce4c0",
+              "Cosmos Alternativo": "#fce4c0"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#fad19c",
+              "Cosmos Dark": "#fad19c",
+              "Cosmos Test": "#fad19c",
+              "Cosmos Alternativo": "#fad19c"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#fef2e0",
+              "Cosmos Dark": "#fef2e0",
+              "Cosmos Test": "#fef2e0",
+              "Cosmos Alternativo": "#fef2e0"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "info": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#c0e8fc",
+              "Cosmos Dark": "#c0e8fc",
+              "Cosmos Test": "#c0e8fc",
+              "Cosmos Alternativo": "#c0e8fc"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#9cd8fa",
+              "Cosmos Dark": "#9cd8fa",
+              "Cosmos Test": "#9cd8fa",
+              "Cosmos Alternativo": "#9cd8fa"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#e0f4fe",
+              "Cosmos Dark": "#e0f4fe",
+              "Cosmos Test": "#e0f4fe",
+              "Cosmos Alternativo": "#e0f4fe"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        },
+        "success": {
+          "main": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#ddf8c3",
+              "Cosmos Dark": "#ddf8c3",
+              "Cosmos Test": "#ddf8c3",
+              "Cosmos Alternativo": "#ddf8c3"
+            }
+          },
+          "dark": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#c8f3a2",
+              "Cosmos Dark": "#c8f3a2",
+              "Cosmos Test": "#c8f3a2",
+              "Cosmos Alternativo": "#c8f3a2"
+            }
+          },
+          "light": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#effce2",
+              "Cosmos Dark": "#effce2",
+              "Cosmos Test": "#effce2",
+              "Cosmos Alternativo": "#effce2"
+            }
+          },
+          "contrast": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "#5a5e73",
+              "Cosmos Dark": "#5a5e73",
+              "Cosmos Test": "#5a5e73",
+              "Cosmos Alternativo": "#5a5e73"
+            }
+          }
+        }
+      },
+      "tooltip": {
+        "fill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{primary.200}",
+            "Cosmos Dark": "#424242",
+            "Cosmos Test": "#424242",
+            "Cosmos Alternativo": "#424242"
+          }
+        },
+        "Text": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{primary.dark}",
+            "Cosmos Dark": "#424242",
+            "Cosmos Test": "#424242",
+            "Cosmos Alternativo": "#424242"
+          }
+        }
+      },
+      "backdrop": {
+        "fill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "rgba(240, 240, 240, 0.60)",
+            "Cosmos Dark": "rgba(240, 240, 240, 0.60)",
+            "Cosmos Test": "rgba(240, 240, 240, 0.60)",
+            "Cosmos Alternativo": "rgba(240, 240, 240, 0.60)"
+          }
+        }
+      },
+      "appBar": {
+        "defaultFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.100}",
+            "Cosmos Dark": "{grey.100}",
+            "Cosmos Test": "{grey.100}",
+            "Cosmos Alternativo": "{grey.100}"
+          }
+        }
+      },
+      "breadcrumbs": {
+        "collapseFill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.100}",
+            "Cosmos Dark": "{grey.100}",
+            "Cosmos Test": "{grey.100}",
+            "Cosmos Alternativo": "{grey.100}"
+          }
+        }
+      },
+      "alert": {
+        "error": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{error.50}",
+              "Cosmos Dark": "{error.600}",
+              "Cosmos Test": "{error.50}",
+              "Cosmos Alternativo": "{error.50}"
+            }
+          }
+        },
+        "warning": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{warning.50}",
+              "Cosmos Dark": "{warning.600}",
+              "Cosmos Test": "{warning.50}",
+              "Cosmos Alternativo": "{warning.50}"
+            }
+          }
+        },
+        "info": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{info.50}",
+              "Cosmos Dark": "{info.600}",
+              "Cosmos Test": "{info.50}",
+              "Cosmos Alternativo": "{info.50}"
+            }
+          }
+        },
+        "success": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{success.50}",
+              "Cosmos Dark": "{success.600}",
+              "Cosmos Test": "{success.50}",
+              "Cosmos Alternativo": "{success.50}"
+            }
+          }
+        }
+      },
+      "stepper": {
+        "connector": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{grey.400}",
+            "Cosmos Dark": "{grey.400}",
+            "Cosmos Test": "{grey.400}",
+            "Cosmos Alternativo": "{grey.400}"
+          }
+        }
+      },
+      "snackbar": {
+        "fill": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "#323232",
+            "Cosmos Dark": "#323232",
+            "Cosmos Test": "#323232",
+            "Cosmos Alternativo": "#323232"
+          }
+        }
+      },
+      "Toast notification": {
+        "error": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{error.50}",
+              "Cosmos Dark": "{error.50}",
+              "Cosmos Test": "{error.50}",
+              "Cosmos Alternativo": "{error.50}"
+            }
+          }
+        },
+        "info": {
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          },
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{info.50}",
+              "Cosmos Dark": "{info.50}",
+              "Cosmos Test": "{info.50}",
+              "Cosmos Alternativo": "{info.50}"
+            }
+          }
+        },
+        "warning": {
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{warning.50}",
+              "Cosmos Dark": "{warning.50}",
+              "Cosmos Test": "{warning.50}",
+              "Cosmos Alternativo": "{warning.50}"
+            }
+          },
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          }
+        },
+        "success": {
+          "background": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{success.50}",
+              "Cosmos Dark": "{success.50}",
+              "Cosmos Test": "{success.50}",
+              "Cosmos Alternativo": "{success.50}"
+            }
+          },
+          "color": {
+            "$type": "color",
+            "$value": {
+              "Cosmos": "{text.primary}",
+              "Cosmos Dark": "{text.primary}",
+              "Cosmos Test": "{text.primary}",
+              "Cosmos Alternativo": "{text.primary}"
+            }
+          }
+        }
+      }
+    },
+    "elevation": {
+      "outlined": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "#e0e0e0",
+          "Cosmos Dark": "#e0e0e0",
+          "Cosmos Test": "#e0e0e0",
+          "Cosmos Alternativo": "#e0e0e0"
+        }
+      }
+    },
+    "_native": {
+      "scrollbar-bg": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.200}",
+          "Cosmos Dark": "#323232",
+          "Cosmos Test": "{grey.200}",
+          "Cosmos Alternativo": "{grey.200}"
+        }
+      }
+    },
+    "padding": {
+      "horizontal": {
+        "accordion": {
+          "header": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 16,
+              "Cosmos Dark": 16,
+              "Cosmos Test": 16,
+              "Cosmos Alternativo": 16
+            }
+          },
+          "content": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 12,
+              "Cosmos Dark": 12,
+              "Cosmos Test": 12,
+              "Cosmos Alternativo": 12
+            }
+          }
+        },
+        "toggle-button": {
+          "large": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 14,
+              "Cosmos Dark": 14,
+              "Cosmos Test": 14,
+              "Cosmos Alternativo": 14
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 7,
+              "Cosmos Dark": 7,
+              "Cosmos Test": 7,
+              "Cosmos Alternativo": 7
+            }
+          },
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 6,
+              "Cosmos Dark": 6,
+              "Cosmos Test": 6,
+              "Cosmos Alternativo": 6
+            }
+          },
+          "icon": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 20,
+              "Cosmos Dark": 20,
+              "Cosmos Test": 20,
+              "Cosmos Alternativo": 20
+            }
+          }
+        },
+        "chip": {
+          "medium-chip": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 4,
+              "Cosmos Dark": 4,
+              "Cosmos Test": 4,
+              "Cosmos Alternativo": 4
+            }
+          },
+          "medium-conteiner": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 6,
+              "Cosmos Dark": 6,
+              "Cosmos Test": 6,
+              "Cosmos Alternativo": 6
+            }
+          },
+          "small-chip": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 4,
+              "Cosmos Dark": 4,
+              "Cosmos Test": 4,
+              "Cosmos Alternativo": 4
+            }
+          },
+          "small-conteiner": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 6,
+              "Cosmos Dark": 6,
+              "Cosmos Test": 6,
+              "Cosmos Alternativo": 6
+            }
+          }
+        },
+        "button": {
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 10,
+              "Cosmos Dark": 10,
+              "Cosmos Test": 10,
+              "Cosmos Alternativo": 10
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 16,
+              "Cosmos Dark": 16,
+              "Cosmos Test": 16,
+              "Cosmos Alternativo": 16
+            }
+          },
+          "large": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 22,
+              "Cosmos Dark": 22,
+              "Cosmos Test": 22,
+              "Cosmos Alternativo": 22
+            }
+          }
+        },
+        "icon-button": {
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 3,
+              "Cosmos Dark": 3,
+              "Cosmos Test": 3,
+              "Cosmos Alternativo": 3
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 8,
+              "Cosmos Dark": 8,
+              "Cosmos Test": 8,
+              "Cosmos Alternativo": 8
+            }
+          },
+          "icon-small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 16,
+              "Cosmos Dark": 16,
+              "Cosmos Test": 16,
+              "Cosmos Alternativo": 16
+            }
+          },
+          "icon-medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 20,
+              "Cosmos Dark": 20,
+              "Cosmos Test": 20,
+              "Cosmos Alternativo": 20
+            }
+          }
+        }
+      },
+      "vertical": {
+        "accordion": {
+          "header": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 0,
+              "Cosmos Dark": 0,
+              "Cosmos Test": 0,
+              "Cosmos Alternativo": 0
+            }
+          },
+          "content-top": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 12,
+              "Cosmos Dark": 12,
+              "Cosmos Test": 12,
+              "Cosmos Alternativo": 12
+            }
+          },
+          "content-bottom": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 12,
+              "Cosmos Dark": 12,
+              "Cosmos Test": 12,
+              "Cosmos Alternativo": 12
+            }
+          }
+        },
+        "toggle-button": {
+          "large": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 14,
+              "Cosmos Dark": 14,
+              "Cosmos Test": 14,
+              "Cosmos Alternativo": 14
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 7,
+              "Cosmos Dark": 7,
+              "Cosmos Test": 7,
+              "Cosmos Alternativo": 7
+            }
+          },
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 6,
+              "Cosmos Dark": 6,
+              "Cosmos Test": 6,
+              "Cosmos Alternativo": 6
+            }
+          },
+          "icon": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 20,
+              "Cosmos Dark": 20,
+              "Cosmos Test": 20,
+              "Cosmos Alternativo": 20
+            }
+          }
+        },
+        "chip": {
+          "medium-chip": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 2,
+              "Cosmos Dark": 2,
+              "Cosmos Test": 2,
+              "Cosmos Alternativo": 2
+            }
+          },
+          "medium-conteiner": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 1,
+              "Cosmos Dark": 1,
+              "Cosmos Test": 1,
+              "Cosmos Alternativo": 1
+            }
+          },
+          "small-chip": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 1,
+              "Cosmos Dark": 1,
+              "Cosmos Test": 1,
+              "Cosmos Alternativo": 1
+            }
+          },
+          "small-conteiner": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 0,
+              "Cosmos Dark": 0,
+              "Cosmos Test": 0,
+              "Cosmos Alternativo": 0
+            }
+          }
+        },
+        "button": {
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 4,
+              "Cosmos Dark": 4,
+              "Cosmos Test": 4,
+              "Cosmos Alternativo": 4
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 6,
+              "Cosmos Dark": 6,
+              "Cosmos Test": 6,
+              "Cosmos Alternativo": 6
+            }
+          },
+          "large": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 8,
+              "Cosmos Dark": 8,
+              "Cosmos Test": 8,
+              "Cosmos Alternativo": 8
+            }
+          }
+        },
+        "icon-button": {
+          "small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 3,
+              "Cosmos Dark": 3,
+              "Cosmos Test": 3,
+              "Cosmos Alternativo": 3
+            }
+          },
+          "medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 8,
+              "Cosmos Dark": 8,
+              "Cosmos Test": 8,
+              "Cosmos Alternativo": 8
+            }
+          },
+          "icon-small": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 16,
+              "Cosmos Dark": 16,
+              "Cosmos Test": 16,
+              "Cosmos Alternativo": 16
+            }
+          },
+          "icon-medium": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 20,
+              "Cosmos Dark": 20,
+              "Cosmos Test": 20,
+              "Cosmos Alternativo": 20
+            }
+          }
+        }
+      }
+    },
+    "typography": {
+      "chip": {
+        "size": {
+          "$type": "number",
+          "$value": {
+            "Cosmos": 11,
+            "Cosmos Dark": 11,
+            "Cosmos Test": 11,
+            "Cosmos Alternativo": 11
+          }
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": {
+            "Cosmos": 14,
+            "Cosmos Dark": 14,
+            "Cosmos Test": 14,
+            "Cosmos Alternativo": 14
+          }
+        }
+      },
+      "button": {
+        "small": {
+          "size": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 12.100000381469727,
+              "Cosmos Dark": 12.100000381469727,
+              "Cosmos Test": 12.100000381469727,
+              "Cosmos Alternativo": 12.100000381469727
+            }
+          },
+          "line-height": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 18,
+              "Cosmos Dark": 18,
+              "Cosmos Test": 18,
+              "Cosmos Alternativo": 18
+            }
+          }
+        },
+        "medium": {
+          "size": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 13,
+              "Cosmos Dark": 13,
+              "Cosmos Test": 13,
+              "Cosmos Alternativo": 13
+            }
+          },
+          "line-height": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 20,
+              "Cosmos Dark": 20,
+              "Cosmos Test": 20,
+              "Cosmos Alternativo": 20
+            }
+          }
+        },
+        "large": {
+          "size": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 14,
+              "Cosmos Dark": 14,
+              "Cosmos Test": 14,
+              "Cosmos Alternativo": 14
+            }
+          },
+          "line-height": {
+            "$type": "number",
+            "$value": {
+              "Cosmos": 22,
+              "Cosmos Dark": 22,
+              "Cosmos Test": 22,
+              "Cosmos Alternativo": 22
+            }
+          }
+        }
+      }
+    },
+    "border-radius": {
+      "chip": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 4,
+          "Cosmos Dark": 4,
+          "Cosmos Test": 4,
+          "Cosmos Alternativo": 4
+        }
+      }
+    },
+    "Icon": {
+      "$type": "string",
+      "$value": {
+        "Cosmos": "Tabler",
+        "Cosmos Dark": "Tabler",
+        "Cosmos Test": "Tabler",
+        "Cosmos Alternativo": "Tabler"
+      }
+    },
+    "grey": {
+      "50": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.50}",
+          "Cosmos Dark": "#202020",
+          "Cosmos Test": "{grey.50}",
+          "Cosmos Alternativo": "{grey.50}"
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.100}",
+          "Cosmos Dark": "#242424",
+          "Cosmos Test": "{grey.100}",
+          "Cosmos Alternativo": "{grey.100}"
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.200}",
+          "Cosmos Dark": "#262626",
+          "Cosmos Test": "{grey.200}",
+          "Cosmos Alternativo": "{grey.200}"
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.300}",
+          "Cosmos Dark": "#282828",
+          "Cosmos Test": "{grey.300}",
+          "Cosmos Alternativo": "{grey.300}"
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.400}",
+          "Cosmos Dark": "#323232",
+          "Cosmos Test": "{grey.400}",
+          "Cosmos Alternativo": "{grey.400}"
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.500}",
+          "Cosmos Dark": "#343434",
+          "Cosmos Test": "{grey.400}",
+          "Cosmos Alternativo": "{grey.400}"
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.600}",
+          "Cosmos Dark": "#383838",
+          "Cosmos Test": "{grey.600}",
+          "Cosmos Alternativo": "{grey.600}"
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.700}",
+          "Cosmos Dark": "#424242",
+          "Cosmos Test": "{grey.700}",
+          "Cosmos Alternativo": "{grey.700}"
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.800}",
+          "Cosmos Dark": "#464646",
+          "Cosmos Test": "{grey.800}",
+          "Cosmos Alternativo": "{grey.800}"
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": {
+          "Cosmos": "{grey.900}",
+          "Cosmos Dark": "#484848",
+          "Cosmos Test": "{grey.900}",
+          "Cosmos Alternativo": "{grey.900}"
+        }
+      }
+    }
+  },
+  "materialColors": {
+    "blue": {
+      "50": {
+        "$type": "color",
+        "$value": "#e3f2fd"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#bbdefb"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#90caf9"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#64b5f6"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#42a5f5"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#2196f3"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#1e88e5"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0057b2"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1565c0"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#0d47a1"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#82b1ff"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#448aff"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#2979ff"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#2962ff"
+      }
+    },
+    "purple": {
+      "50": {
+        "$type": "color",
+        "$value": "#f3e5f5"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e1bee7"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ce93d8"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ba68c8"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ab47bc"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#9c27b0"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#8e24aa"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#7b1fa2"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#6a1b9a"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#4a148c"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ea80fc"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#e040fb"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#d500f9"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#aa00ff"
+      }
+    },
+    "red": {
+      "50": {
+        "$type": "color",
+        "$value": "#feebee"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fecdd2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ef9a9a"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#e57373"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ef5350"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#f44336"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#e53935"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#d32f2f"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#c62828"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#b71c1c"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ff8a80"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ff5252"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#ff1744"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#d50000"
+      }
+    },
+    "green": {
+      "50": {
+        "$type": "color",
+        "$value": "#e8f5e9"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#c8e6c9"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#a5d6a7"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#81c784"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#66bb6a"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#4caf50"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#43a047"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#388e3c"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#2e7d32"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#1b5e20"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#b9f6ca"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#69f0ae"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#00e676"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#00c853"
+      }
+    },
+    "orange": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff3e0"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffe0b2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffcc80"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ffb74d"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ffa726"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ff9800"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#fb8c00"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#f57c00"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#ef6c00"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#ef6c00"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ffd180"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ffab40"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#ff9100"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#ff6d00"
+      }
+    },
+    "lightBlue": {
+      "50": {
+        "$type": "color",
+        "$value": "#e1f5fe"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b3e5fc"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#81d4fa"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4fc3f7"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#29b6f6"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#03a9f4"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#039be5"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0288d1"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#0277bd"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#01579b"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#80d8ff"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#40c4ff"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#00b0ff"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#0091ea"
+      }
+    },
+    "indigo": {
+      "50": {
+        "$type": "color",
+        "$value": "#e8eaf6"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#c5cae9"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#9fa8da"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#7986cb"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#5c6bc0"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#3f51b5"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#3949ab"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#303f9f"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#283593"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#1a237e"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#8c9eff"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#536dfe"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#3d5afe"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#304ffe"
+      }
+    },
+    "deepPurple": {
+      "50": {
+        "$type": "color",
+        "$value": "#ede7f6"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#d1c4e9"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#b39ddb"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#9575cd"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#7e57c2"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#673ab7"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#5e35b1"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#512da8"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#4527a0"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#311b92"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#b388ff"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#7c4dff"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#651fff"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#6200ea"
+      }
+    },
+    "amber": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff8e1"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffecb3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffe082"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ffd54f"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ffca28"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ffc107"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#ffb300"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#ffa000"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#ff8f00"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#ff6f00"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ffe57f"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ffd740"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#ffc400"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#ffab00"
+      }
+    },
+    "pink": {
+      "50": {
+        "$type": "color",
+        "$value": "#fce4ec"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f8bbd0"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#f48fb1"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#f06292"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ec407a"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#e91e63"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#d81b60"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#c2185b"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#ad1457"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#880e4f"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ff80ab"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ff4081"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#f50057"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#c51162"
+      }
+    },
+    "deepOrange": {
+      "50": {
+        "$type": "color",
+        "$value": "#fbe9e7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffccbc"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffab91"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ff8a65"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ff7043"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ff5722"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#f4511e"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#e64a19"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#d84315"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#bf360c"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ff9e80"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ff6e40"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#ff3d00"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#dd2c00"
+      }
+    },
+    "lightGreen": {
+      "50": {
+        "$type": "color",
+        "$value": "#f1f8e9"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#dcedc8"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#c5e1a5"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#aed581"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#8bc34a"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#8bc34a"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#7cb342"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#689f38"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#558b2f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#33691e"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ccff90"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#b2ff59"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#76ff03"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#64dd17"
+      }
+    },
+    "lime": {
+      "50": {
+        "$type": "color",
+        "$value": "#f9fbe7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f0f4c3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e6ee9c"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#dce775"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#d4e157"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#cddc39"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#c0ca33"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#afb42b"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#9e9d24"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#827717"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#f4ff81"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#eeff41"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#c6ff00"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#aeea00"
+      }
+    },
+    "yellow": {
+      "50": {
+        "$type": "color",
+        "$value": "#fffde7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fff9c4"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fff59d"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#fff176"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ffee58"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ffeb3b"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#fdd835"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#fbc02d"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#f9a825"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#f57f17"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#ffff8d"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#ffff00"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#ffea00"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#ffd600"
+      }
+    },
+    "cyan": {
+      "50": {
+        "$type": "color",
+        "$value": "#e0f7fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b2ebf2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#80deea"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4dd0e1"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#26c6da"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#00bcd4"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#00acc1"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0097a7"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#00838f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#006064"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#84ffff"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#18ffff"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#00e5ff"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#00b8d4"
+      }
+    },
+    "teal": {
+      "50": {
+        "$type": "color",
+        "$value": "#e0f2f1"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b2dfdb"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#80cbc4"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4db6ac"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#26a69a"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#009688"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#00897b"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#00796b"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#00695c"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#004d40"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#a7ffeb"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#64ffda"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#1de9b6"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#00bfa5"
+      }
+    },
+    "blueGrey": {
+      "50": {
+        "$type": "color",
+        "$value": "#eceff1"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#cfd8dc"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#b0bec5"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#90a4ae"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#78909c"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#607d8b"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#546e7a"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#455a64"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#37474f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#263238"
+      },
+      "A100": {
+        "$type": "color",
+        "$value": "#cfd8dc"
+      },
+      "A200": {
+        "$type": "color",
+        "$value": "#b0bec5"
+      },
+      "A400": {
+        "$type": "color",
+        "$value": "#78909c"
+      },
+      "A700": {
+        "$type": "color",
+        "$value": "#455a64"
+      }
+    }
+  },
+  "breakPoints": {
+    "xl": {
+      "$type": "number",
+      "$value": 1536
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 1200
+    },
+    "md": {
+      "$type": "number",
+      "$value": 900
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 600
+    },
+    "xs": {
+      "$type": "number",
+      "$value": 444
+    }
+  },
+  "reactGap": {
+    "0,5Gap": {
+      "$type": "number",
+      "$value": 4
+    },
+    "1,5Gap": {
+      "$type": "number",
+      "$value": 12
+    },
+    "2Gap": {
+      "$type": "number",
+      "$value": 16
+    },
+    "3Gap": {
+      "$type": "number",
+      "$value": 24
+    },
+    "4Gap": {
+      "$type": "number",
+      "$value": 32
+    },
+    "5Gap": {
+      "$type": "number",
+      "$value": 40
+    },
+    "6Gap": {
+      "$type": "number",
+      "$value": 48
+    },
+    "7Gap": {
+      "$type": "number",
+      "$value": 56
+    },
+    "8Gap": {
+      "$type": "number",
+      "$value": 64
+    },
+    "9Gap": {
+      "$type": "number",
+      "$value": 72
+    },
+    "10Gap": {
+      "$type": "number",
+      "$value": 80
+    },
+    "11Gap": {
+      "$type": "number",
+      "$value": 88
+    },
+    "1Gap": {
+      "$type": "number",
+      "$value": 8
+    },
+    "12Gap": {
+      "$type": "number",
+      "$value": 96
+    },
+    "13Gap": {
+      "$type": "number",
+      "$value": 104
+    },
+    "14Gap": {
+      "$type": "number",
+      "$value": 112
+    }
+  },
+  "sincoColors": {
+    "primary": {
+      "50": {
+        "$type": "color",
+        "$value": "#f3f3ff"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f3f3ff"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d6d5ff"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#b9b3ff"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#7358fa"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#6135f2"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#451dba"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#9588fd"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#5323de"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#3a1a98"
+      }
+    },
+    "secondary": {
+      "50": {
+        "$type": "color",
+        "$value": "#e0f7fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b3ebf2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#80deea"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4dd0e1"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#00b6cf"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#00adc9"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#00a5c3"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#26c6da"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#00bcd4"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#0097b9"
+      }
+    },
+    "success": {
+      "50": {
+        "$type": "color",
+        "$value": "#f2f9e7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ddefc4"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#c7e49d"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#b1d975"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#87c334"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#7cbc2c"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#72b525"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#a0d158"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#8fc93a"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#60a918"
+      }
+    },
+    "error": {
+      "50": {
+        "$type": "color",
+        "$value": "#f9e8e8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f1c7c7"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e8a1a1"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#df7b7b"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#cc3d3d"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#c63434"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#c02c2c"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#d85f5f"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#d14343"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#b51e1e"
+      }
+    },
+    "info": {
+      "50": {
+        "$type": "color",
+        "$value": "#e6f3f8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#c0e2ee"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#96cfe2"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#6cbcd6"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2897bf"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#228db8"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1c83b0"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#4dadce"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#2d9fc5"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#1172a3"
+      }
+    },
+    "warning": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff0e0"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fedab3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fdc280"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#fcaa4d"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#fa7d00"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#fa7200"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#f96800"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#fc9726"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#fb8500"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#f85500"
+      }
+    },
+    "grey": {
+      "50": {
+        "$type": "color",
+        "$value": "#fbfbfb"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f5f5f6"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#eaebec"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#dcdee0"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ced1d4"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#c4c7ca"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#b9bdc1"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#b2b7bb"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#aaaeb3"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#a2a6ab"
+      }
+    },
+    "primary ADPV": {
+      "50": {
+        "$type": "color",
+        "$value": "#f8fafb"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e6eff0"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d2e3e4"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#82c6cb"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#04848f"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#047984"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#036f7a"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#2b9da7"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#058c97"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#015c69"
+      }
+    },
+    "avatar": {
+      "abc": {
+        "$type": "color",
+        "$value": "#ffa000"
+      },
+      "def": {
+        "$type": "color",
+        "$value": "#0057b2"
+      },
+      "ghi": {
+        "$type": "color",
+        "$value": "#0097a7"
+      },
+      "jkl": {
+        "$type": "color",
+        "$value": "#e64a19"
+      },
+      "mnñ": {
+        "$type": "color",
+        "$value": "#512da8"
+      },
+      "opq": {
+        "$type": "color",
+        "$value": "#388e3c"
+      },
+      "rst": {
+        "$type": "color",
+        "$value": "#0288d1"
+      },
+      "uvw": {
+        "$type": "color",
+        "$value": "#c2185b"
+      },
+      "xyz": {
+        "$type": "color",
+        "$value": "#fbc02d"
+      }
+    },
+    "primary ADC": {
+      "50": {
+        "$type": "color",
+        "$value": "#e5e7fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#bec4f2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#6876e0"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4758da"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2335ce"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#1d2dc8"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1726c2"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#939de9"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#273bd3"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#0e19b7"
+      }
+    },
+    "Secondary ADC": {
+      "50": {
+        "$type": "color",
+        "$value": "#f9f9f9"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#efefef"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#dadada"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#d2d2d2"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#c5c5c5"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#bdbdbd"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#b7b7b7"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#e5e5e5"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#cacaca"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#ababab"
+      }
+    },
+    "primary Bitákora": {
+      "50": {
+        "$type": "color",
+        "$value": "#e4e7ea"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#bbc2c9"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#8d9aa6"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#5f7182"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#182f45"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#14273c"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#102133"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#3d5267"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#1b344c"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#081524"
+      }
+    },
+    "Secondary Bitákora": {
+      "50": {
+        "$type": "color",
+        "$value": "#e0f7fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b3ebf2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#80deea"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4dd0e1"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#00b6cf"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#00adc9"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#00a5c3"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#4dadce"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#2d9fc5"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#1172a3"
+      }
+    },
+    "primary COSMOS": {
+      "50": {
+        "$type": "color",
+        "$value": "#f8fafb"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e6eff0"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d2e3e4"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#82c6cb"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#04848f"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#047984"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#036f7a"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#2b9da7"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#058c97"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#015c69"
+      }
+    },
+    "Secondary COSMOS": {
+      "50": {
+        "$type": "color",
+        "$value": "#f9f9f9"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#efefef"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#dadada"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#d2d2d2"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#c5c5c5"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#bdbdbd"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#b7b7b7"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#e5e5e5"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#cacaca"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#ababab"
+      }
+    },
+    "test COSMOS": {
+      "50": {
+        "$type": "color",
+        "$value": "#ecfffe"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#cffefd"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#a4fdfc"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#66fafa"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#04cfd6"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#06a6b4"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#146976"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#40eff2"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#0d8491"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#155764"
+      }
+    },
+    "secondary Test": {
+      "50": {
+        "$type": "color",
+        "$value": "#e0f7fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#b3ebf2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#80deea"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#4dd0e1"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#00b6cf"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#00adc9"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#00a5c3"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#26c6da"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "#00bcd4"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#0097b9"
+      }
+    }
+  },
+  "borderRadius": {
+    "borderRadius1": {
+      "$type": "number",
+      "$value": 4
+    },
+    "borderRadius2": {
+      "$type": "number",
+      "$value": 8
+    },
+    "borderRadius3": {
+      "$type": "number",
+      "$value": 12
+    },
+    "borderRadius4": {
+      "$type": "number",
+      "$value": 16
+    },
+    "borderRadius5": {
+      "$type": "number",
+      "$value": 20
+    },
+    "borderRadius-1": {
+      "$type": "string",
+      "$value": "4px"
+    },
+    "borderRadius-2": {
+      "$type": "string",
+      "$value": "8px"
+    },
+    "borderRadius1-5": {
+      "$type": "number",
+      "$value": 6
+    }
+  },
+  "reactPadding": {
+    "Padding": {
+      "1": {
+        "$type": "number",
+        "$value": 8
+      },
+      "0,5 p": {
+        "$type": "number",
+        "$value": 4
+      },
+      "1,5 p": {
+        "$type": "number",
+        "$value": 12
+      },
+      "2p": {
+        "$type": "number",
+        "$value": 16
+      },
+      "2,5 p": {
+        "$type": "number",
+        "$value": 20
+      },
+      "3p": {
+        "$type": "number",
+        "$value": 24
+      },
+      "3,5 p": {
+        "$type": "number",
+        "$value": 28
+      },
+      "Padding-top": {
+        "0,5 pt": {
+          "$type": "number",
+          "$value": 4
+        },
+        "1 pt": {
+          "$type": "number",
+          "$value": 8
+        },
+        "1,5 pt": {
+          "$type": "number",
+          "$value": 12
+        },
+        "2pt": {
+          "$type": "number",
+          "$value": 16
+        },
+        "2,5 pt": {
+          "$type": "number",
+          "$value": 20
+        },
+        "3pt": {
+          "$type": "number",
+          "$value": 24
+        },
+        "3,5 pt": {
+          "$type": "number",
+          "$value": 28
+        }
+      },
+      "Padding-buttom": {
+        "0,5 pb": {
+          "$type": "number",
+          "$value": 4
+        },
+        "1 pb": {
+          "$type": "number",
+          "$value": 8
+        },
+        "1,5 pb": {
+          "$type": "number",
+          "$value": 12
+        },
+        "2 pb": {
+          "$type": "number",
+          "$value": 16
+        },
+        "2,5 pb": {
+          "$type": "number",
+          "$value": 20
+        },
+        "3 pb": {
+          "$type": "number",
+          "$value": 24
+        },
+        "3,5 pb": {
+          "$type": "number",
+          "$value": 28
+        }
+      },
+      "Padding-left": {
+        "0,5 pl": {
+          "$type": "number",
+          "$value": 4
+        },
+        "1 pl": {
+          "$type": "number",
+          "$value": 8
+        },
+        "1,5 pl": {
+          "$type": "number",
+          "$value": 12
+        },
+        "2 pl": {
+          "$type": "number",
+          "$value": 16
+        },
+        "2,5 pl": {
+          "$type": "number",
+          "$value": 20
+        },
+        "3 pl": {
+          "$type": "number",
+          "$value": 24
+        },
+        "3,5 pl": {
+          "$type": "number",
+          "$value": 28
+        }
+      },
+      "Padding-right": {
+        "0,5 pr": {
+          "$type": "number",
+          "$value": 4
+        },
+        "1 pr": {
+          "$type": "number",
+          "$value": 8
+        },
+        "1,5 pr": {
+          "$type": "number",
+          "$value": 12
+        },
+        "2 pr": {
+          "$type": "number",
+          "$value": 16
+        },
+        "2,5 pr": {
+          "$type": "number",
+          "$value": 20
+        },
+        "3 pr": {
+          "$type": "number",
+          "$value": 24
+        },
+        "3,5 pr": {
+          "$type": "number",
+          "$value": 28
+        }
+      }
+    }
+  },
+  "Date&Time": {
+    "CalendarMonth": {
+      "$type": "string",
+      "$value": "Diciembre"
+    },
+    "CalendarYear": {
+      "$type": "number",
+      "$value": 2024
+    }
+  },
+  "font": {
+    "Family": {
+      "$type": "string",
+      "$value": {
+        "Cosmos": "IBM Plex Sans",
+        "ERP": "Roboto"
+      }
+    },
+    "Size": {
+      "H1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 40,
+          "ERP": 40
+        }
+      },
+      "H2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 32,
+          "ERP": 32
+        }
+      },
+      "H3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 28,
+          "ERP": 28
+        }
+      },
+      "H4": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 22,
+          "ERP": 22
+        }
+      },
+      "H5": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 18,
+          "ERP": 18
+        }
+      },
+      "H6": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Body1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 14,
+          "ERP": 14
+        }
+      },
+      "Body2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 13,
+          "ERP": 13
+        }
+      },
+      "Body3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 12,
+          "ERP": 12
+        }
+      },
+      "Subtitle1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 14,
+          "ERP": 14
+        }
+      },
+      "Subtitle2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 13,
+          "ERP": 13
+        }
+      },
+      "Overline": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 11,
+          "ERP": 11
+        }
+      },
+      "Caption": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 11,
+          "ERP": 11
+        }
+      }
+    },
+    "Weight": {
+      "Regular": {
+        "$type": "string",
+        "$value": {
+          "Cosmos": "Regular",
+          "ERP": "Regular"
+        }
+      },
+      "Light": {
+        "$type": "string",
+        "$value": {
+          "Cosmos": "Light",
+          "ERP": "Light"
+        }
+      },
+      "Semibold": {
+        "$type": "string",
+        "$value": {
+          "Cosmos": "Semibold",
+          "ERP": "Semibold"
+        }
+      },
+      "Medium": {
+        "$type": "string",
+        "$value": {
+          "Cosmos": "Medium",
+          "ERP": "Medium"
+        }
+      }
+    },
+    "LineHeight": {
+      "H1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 48,
+          "ERP": 48
+        }
+      },
+      "H2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 40,
+          "ERP": 40
+        }
+      },
+      "H3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 32,
+          "ERP": 32
+        }
+      },
+      "H4": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 24,
+          "ERP": 24
+        }
+      },
+      "H5": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 24,
+          "ERP": 24
+        }
+      },
+      "H6": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Body1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Body2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Body3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Subtitle1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Subtitle2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 16,
+          "ERP": 16
+        }
+      },
+      "Overline": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 24,
+          "ERP": 24
+        }
+      },
+      "Caption": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 14,
+          "ERP": 14
+        }
+      }
+    },
+    "LetterSpacing": {
+      "H1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": -1.5,
+          "ERP": -1.5
+        }
+      },
+      "H2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": -0.5,
+          "ERP": -0.5
+        }
+      },
+      "H3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0,
+          "ERP": 0
+        }
+      },
+      "H4": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.25,
+          "ERP": 0.25
+        }
+      },
+      "H5": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0,
+          "ERP": 0
+        }
+      },
+      "H6": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.15000000596046448,
+          "ERP": 0.15000000596046448
+        }
+      },
+      "Body1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.15000000596046448,
+          "ERP": 0.15000000596046448
+        }
+      },
+      "Body2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.17000000178813934,
+          "ERP": 0.17000000178813934
+        }
+      },
+      "Body3": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.17000000178813934,
+          "ERP": 0.17000000178813934
+        }
+      },
+      "Subtitle1": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.15000000596046448,
+          "ERP": 0.15000000596046448
+        }
+      },
+      "Subtitle2": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.10000000149011612,
+          "ERP": 0.10000000149011612
+        }
+      },
+      "Overline": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 1,
+          "ERP": 1
+        }
+      },
+      "Caption": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": 0.4000000059604645,
+          "ERP": 0.4000000059604645
+        }
+      }
+    }
+  },
+  "IconsLibrary": {
+    "Icon": {
+      "$type": "string",
+      "$value": {
+        "Cosmos": "Tabler",
+        "ERP": "Material-Icon"
+      }
+    }
+  },
+  "Components": {
+    "Datagrid": {
+      "BorderRadius": {
+        "$type": "number",
+        "$value": {
+          "Cosmos": "{borderRadius1-5}",
+          "ERP": 0
+        }
+      },
+      "Gap": {
+        "Cell": {
+          "$type": "number",
+          "$value": {
+            "Cosmos": "{0,5Gap}",
+            "ERP": 0
+          }
+        }
+      },
+      "Color": {
+        "Cell": {
+          "$type": "color",
+          "$value": {
+            "Cosmos": "{primary.hover}",
+            "ERP": "{background.Paper}"
+          }
+        }
+      },
+      "Margin": {
+        "Standard-Confotable": {
+          "$type": "number",
+          "$value": {
+            "Cosmos": "{0,5Gap}",
+            "ERP": 0
+          }
+        },
+        "Compact": {
+          "$type": "number",
+          "$value": {
+            "Cosmos": 2,
+            "ERP": 0
+          }
+        }
+      }
+    }
+  }
+}
